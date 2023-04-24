@@ -1,7 +1,3 @@
-# TP_OOP
-
-Sharing Answer TP OOP
-
 ## TP01.1
 
 Hello One’s Name
